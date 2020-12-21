@@ -10,6 +10,8 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
+<br>
+
 <p align="center">
  <img src="./public/images/happy.png" />
 
